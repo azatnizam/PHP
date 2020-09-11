@@ -32,7 +32,7 @@
 
 Домашняя работа №15. Паттерны и алгоритмы <ins>(не сдавалось)</ins>: [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5058/).
 
-**Домашняя работа №16.** API: [отчет](https://github.com/otusteamedu/PHP/blob/azatnizam/hw16.2/README.md), [код](https://github.com/otusteamedu/PHP/tree/azatnizam/hw16.2), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5059/).
+**Домашняя работа №16.** API и очереди: [отчет](https://github.com/otusteamedu/PHP/blob/azatnizam/hw16.2/README.md), [код](https://github.com/otusteamedu/PHP/tree/azatnizam/hw16.2), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5059/).
 
 **Домашняя работа №17.** Скрипт деплоя: [отчет](https://github.com/otusteamedu/PHP/blob/azatnizam/hw17/README.md), [код](https://github.com/otusteamedu/PHP/tree/azatnizam/hw17), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5060/).
 
