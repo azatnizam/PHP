@@ -12,7 +12,7 @@
 
 **Домашняя работа №5.** Простое веб-приложение в docker: [отчет](https://github.com/otusteamedu/PHP/pull/569), [код](https://github.com/otusteamedu/PHP/tree/azatnizam/hw5), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5049/).
 
-**Домашняя работа №6.** Работа с Web-серверами: [отчет](https://github.com/otusteamedu/PHP/pull/587), [код](https://github.com/otusteamedu/PHP/tree/azatnizam/hw6.1), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5048/).
+**Домашняя работа №6.** Работа с Web-серверами: [отчет (задача 6.1)](https://github.com/otusteamedu/PHP/pull/587), [код (задача 6.1)](https://github.com/otusteamedu/PHP/tree/azatnizam/hw6.1), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5048/), [отчет (задача 6.2)](https://github.com/otusteamedu/PHP/blob/azatnizam/hw6.2/README.md), [код (задача 6.2)](https://github.com/otusteamedu/PHP/tree/azatnizam/hw6.2).
 
 **Домашняя работа №7.** Сканер уязвимостей (OpenVAS): [отчет](https://github.com/otusteamedu/PHP/pull/581), [код](https://github.com/otusteamedu/PHP/tree/azatnizam/hw7), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5050/).
 
