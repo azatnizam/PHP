@@ -10,7 +10,7 @@
 
 **Домашняя работа №4.** Сокеты: [отчет](https://github.com/otusteamedu/PHP/pull/545), [код](https://github.com/otusteamedu/PHP/tree/azatnizam/hw4), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5046/).
 
-**Домашняя работа №5.** Простое веб-приложение в docker: [отчет](https://github.com/otusteamedu/PHP/pull/569), [код](https://github.com/otusteamedu/PHP/tree/azatnizam/hw5), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5049/).
+**Домашняя работа №5.** Простое веб-приложение в docker: [отчет (задача 5.1)](https://github.com/otusteamedu/PHP/pull/569), [код  (задача 5.1)](https://github.com/otusteamedu/PHP/tree/azatnizam/hw5), [отчет (задача 5.2)](https://github.com/otusteamedu/PHP/pull/571), [код (задача 5.2)](https://github.com/otusteamedu/PHP/tree/azatnizam/hw5.2), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5049/).
 
 **Домашняя работа №6.** Работа с Web-серверами: [отчет (задача 6.1)](https://github.com/otusteamedu/PHP/pull/587), [код (задача 6.1)](https://github.com/otusteamedu/PHP/tree/azatnizam/hw6.1), [отчет (задача 6.2)](https://github.com/otusteamedu/PHP/blob/azatnizam/hw6.2/README.md), [код (задача 6.2)](https://github.com/otusteamedu/PHP/tree/azatnizam/hw6.2), [чат с преподавателем](https://otus.ru/learning/40059/#/homework-chat/5048/).
 
